@@ -1,3 +1,1 @@
-console.log(
-    "funciona"
-)
+alert ("eu sou um alert");
